@@ -1,0 +1,6 @@
+{
+  "name": "BioLoop AI",
+  "description": "Autonomous closed-loop agricultural pathology agent bridging visual crop disease diagnosis with real-time microclimate validation and localized cooperative supply-chain fulfillment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
