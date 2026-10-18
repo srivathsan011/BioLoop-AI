@@ -2,8 +2,8 @@
 ### Autonomous Closed-Loop Agronomic Pathology & Localized Supply-Chain Fulfillment
 
 > **Google Cloud & Gemini AI Hackathon Submission**  
-> **Live Deployment:** [https://ais-pre-3mjtuqdx6nlr3h63mllaul-660546122278.asia-northeast1.run.app](https://ais-pre-3mjtuqdx6nlr3h63mllaul-660546122278.asia-northeast1.run.app)  
-> **Development Environment:** [https://ais-dev-3mjtuqdx6nlr3h63mllaul-660546122278.asia-northeast1.run.app](https://ais-dev-3mjtuqdx6nlr3h63mllaul-660546122278.asia-northeast1.run.app)
+> **Live Deployment:** ([https://ais-pre-3mjtuqdx6nlr3h63mllaul-660546122278.asia-northeast1.run.app](https://bioloopai-1015549159062.asia-east1.run.app/))  
+
 
 ---
 
